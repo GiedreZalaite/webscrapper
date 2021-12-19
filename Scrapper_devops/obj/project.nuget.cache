@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+1rqbyG1IUdfiddN5HxwYyj2e+n9FJfQ94luwlKnbnne2wvXeKopmeNsNP3nBLwYTTiAjbymNGvmr71q69EsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giedr\\source\\repos\\Scrapper_devops\\Scrapper_devops\\Scrapper_devops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giedr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\giedr\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\giedr\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512",
+    "C:\\Users\\giedr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
