@@ -21,3 +21,8 @@ jobs:
       run: dotnet restore
     - name: Publish
       run: dotnet publish
+    - name: Upload WebApp2 Build Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: WebScrapper
+        path: /home/runner/work/webscrapper/webscrapper/Scrapper_devops/bin/Debug/netcoreapp3.1/publish/
